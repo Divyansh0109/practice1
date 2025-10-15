@@ -2,7 +2,7 @@
 #include <math.h>
 int main() {
     int n,digit,digitis=0,temp=0;
-    double sum=01;
+    double sum=0;
     printf("Enter a number: ");
 
     scanf("%d",&n);
